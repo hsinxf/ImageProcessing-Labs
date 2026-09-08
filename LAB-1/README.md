@@ -65,6 +65,6 @@ Image-Processing-Lab-1/
 │   ├── cameraman.png
 │   └── cruyff.png
 │
-├── lab.ipynb
+├── lab1.ipynb
 └── README.md
 ```
