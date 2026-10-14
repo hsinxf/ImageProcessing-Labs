@@ -1,7 +1,6 @@
 # Lab 5 — Spatial Filtering: Smoothing and Sharpening
 
-**Course:** ARTI 404 — Image Processing  
-**Academic Year:** 2025–2026
+**Course:** ARTI 403 — Image Processing
 
 ## Overview
 
@@ -64,7 +63,7 @@ The notebook expects the image at `images/Parrot.png` by default. To use another
    jupyter notebook
    ```
 
-5. Open `Lab_5_Spatial_Filtering.ipynb`.
+5. Open `lab5.ipynb`.
 6. Run all cells from top to bottom.
 
 ## Expected Results
